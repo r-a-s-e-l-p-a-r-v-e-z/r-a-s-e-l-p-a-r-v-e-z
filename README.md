@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Rasel Parvez
 
-<!--
-**r-a-s-e-l-p-a-r-v-e-z/r-a-s-e-l-p-a-r-v-e-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A passionate CSE student from Dhaka, Bangladesh.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on:
+- Building real-world projects
+- Exploring AI and NLP
+- Improving my GitHub profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning:
+- Python and JavaScript
+- Machine Learning
+- Git & GitHub best practices
+
+📫 How to reach me:
+- Email: parvez15-5432@diu.edu.bd
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+
+---
+
+### 🛠️ Languages and Tools:
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+
+---
+
+### 📊 GitHub Stats:
+![Rasel's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-a-s-e-l-p-a-r-v-e-z&show_icons=true&theme=tokyonight)
